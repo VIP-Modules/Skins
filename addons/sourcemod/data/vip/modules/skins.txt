@@ -1,0 +1,22 @@
+"Skins"
+{
+	"z_t"
+	{
+		"name"		"Зобми Т"
+		"model"		"models/player/stenli/splitter_skinny.mdl"
+		"team"		"t"
+	}
+	"z_ct"
+	{
+		"name"		"Зобми CТ"
+		"model"		"models/player/stenli/specter.mdl"
+		"team"		"ct"
+	}
+	"w_all"
+	{
+		"name"		"The Revenant"
+		"model"		"models/player/vad36wolfenstein/revenant.mdl"
+		"team"		"all"
+	}
+	
+}
